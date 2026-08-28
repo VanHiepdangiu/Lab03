@@ -2,8 +2,14 @@
 
 **Bài làm theo đúng source hướng dẫn của thầy:** https://github.com/tvchung/k24cnt1_netcore.git (project `lab03`)
 
-**Sinh viên:** Nguyễn Văn Hiệp — **MSSV: 2410900035**
-**Lớp:** K24CNT1
+## 📋 Thông tin sinh viên
+
+| Thông tin | Chi tiết |
+|-----------|----------|
+| **Mã sinh viên** | 2410900035 |
+| **Họ và tên** | Nguyễn Văn Hiệp |
+| **Lớp** | K24CNT1 |
+| **Học phần** | Phát triển ứng dụng với công nghệ .NET |
 
 ## Nội dung demo (giống hệt bài giảng)
 
