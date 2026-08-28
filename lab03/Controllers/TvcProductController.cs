@@ -14,8 +14,8 @@ namespace lab03.Controllers
         {
             // Đưa dữ liệu ra view
 
-            ViewBag.name = "Chung Trịnh";
-            ViewData["address"] = "Fit NTU ";
+            ViewBag.name = "Nguyễn Văn Hiệp";
+            ViewData["address"] = "SV NTU";
             TempData["UNI"] = "Trường Đại Học Nguyễn Trãi";
 
             return View();
