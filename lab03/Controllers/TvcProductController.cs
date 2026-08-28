@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿// ============================================================
+// Lab 03 - Gioi thieu ve Controller trong ASP.NET Core MVC
+// Sinh vien: Nguyen Van Hiep - MSSV: 2410900035 - Lop: K24CNT1
+// Hoc phan: Phat trien ung dung voi cong nghe .NET
+// ============================================================
+using Microsoft.AspNetCore.Mvc;
 using lab03.Models;
 
 namespace lab03.Controllers
