@@ -21,10 +21,6 @@
 | 4 | Model `TvcProduct`: ProductId, ProductName, YearRelease, Price | `Models/TvcProduct.cs` | — |
 | 5 | View hiển thị dữ liệu từ ViewBag/ViewData/TempData | `Views/TvcProduct/Index.cshtml` | `/TvcProduct/Index` |
 | 6 | View hiển thị object từ ViewData (`productVD`) + ViewBag (`productVB`) | `Views/TvcProduct/GetProduct.cshtml` | `/TvcProduct/GetProduct` |
-| 7 | Model `Account`: Id, Name, Email, Phone, Avatar, Address, Bio, Gender, Birthday | `Models/Account.cs` | — |
-| 8 | AccountController — danh sách account (ViewBag.Accounts) | `Controllers/AccountController.cs` | `/Account/Index` |
-| 9 | Profile — chi tiết account theo Id (LINQ FirstOrDefault) | `Controllers/AccountController.cs` | `/Account/Profile/{id}` |
-| 10 | Route đặt tên `ho-so-cua-toi` cho action Profile | `Controllers/AccountController.cs` | `/ho-so-cua-toi/2` |
 
 ## Cách chạy
 
