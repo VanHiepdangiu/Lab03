@@ -30,11 +30,6 @@ namespace lab03
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
-            // Route riêng cho AccountController
-            app.MapControllerRoute(
-                name: "account",
-                pattern: "{controller=Account}/{action=Index}/{id?}");
-
             app.Run();
         }
     }
